@@ -1,0 +1,720 @@
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:48 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:52 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:55:57 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:02 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:07 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:12 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:21 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:26 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:31 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:36 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:41 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/EURUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/GBPUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/JPY%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/AUDUSD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/CAD%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/CHF%3DX?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/CL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/BZ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/NG%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/GC%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/SI%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/PL%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/NQ%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/ES%3DF?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
+8:56:46 PM [vite] http proxy error: /v8/finance/chart/%5EGDAXI?range=1d&interval=1m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1193:18)
+    at afterConnectMultiple (node:net:1783:7)
